@@ -9,11 +9,12 @@ header {
     height: 100px;
 }
 
-.container-sm,
+/* .container-sm,
 .container-md, 
 .container-lg {
     background-color: green;
-}
+    opacity: 0.6;
+} */
 
 #background-red {
     background-color: red;
@@ -41,7 +42,7 @@ header {
 }
 
 #image {
-    height: 300px;
+    height: 250px;
     background-color: blueviolet;
-    border: 1px solid white;
+    border: 1px solid rgb(242, 255, 0);
 }
