@@ -1,0 +1,34 @@
+/* General rules */
+section:nth-of-type(2n + 1) {
+    background-color: aquamarine;
+}
+
+
+/* Utility rules */
+.d-flex {
+    display: flex;
+}
+
+/* Debugging rules */
+header {
+    background-color: royalblue;
+    height: 100px;
+}
+
+.container-sm,
+.container-md, 
+.container-lg {
+    background-color: green;
+}
+
+.background-red {
+    background-color: red;
+    height: 100px;
+}
+.background-blue {
+    background-color: blue;
+    height: 100px;
+}
+section {
+    height: 400px;
+}
