@@ -88,36 +88,3 @@ header {
     height: 100%;
     width: 100%;
 }
-
-/* Debugging rules */
-
-
-/* .container-sm,
-.container-md, 
-.container-lg {
-    background-color: green;
-    opacity: 0.6;
-} */
-
-#background-red {
-    background-color: red;
-    height: 100px;
-}
-#background-blue {
-    background-color: blue;
-    height: 100px;
-}
-#background-white {
-    color: white;
-    text-align: center;
-}
-.white_title {
-    font-size: 35px;
-    font-weight: bold;
-}
-
-#background-white-short {
-    background-color: white;
-    height: 50px;
-    border: 1px solid black;
-}
